@@ -15,4 +15,4 @@ I'm a software engineer who enjoys building clean, practical digital products an
 
 ## 📬 How to Reach Me
 - **Email:** quangtu2301@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/quangtu2301/
+- **LinkedIn:** https://www.linkedin.com/in/quangtu2301

@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Quang Tu 👋
 
-<!--
-**tuwang2301/tuwang2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who enjoys building clean, practical digital products and growing a little every day.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
+- Developing personal projects to sharpen my full-stack and AI skills  
+- Exploring AI automation, microservices, and cloud deployment  
+- Preparing for software engineering internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies I Use
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** NestJS, Spring Boot, Node.js  
+**DevOps:** Docker, AWS, CI/CD  
+**Other:** Supabase, Python, Data Engineering basics
+
+## 📬 How to Reach Me
+- **Email:** quangtu2301@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/quangtu2301/
